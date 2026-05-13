@@ -1,0 +1,7 @@
+{
+  "name": "shomrim-freedom",
+  "scripts": {
+    "build": "echo 'No build needed' && exit 0"
+  },
+  "dependencies": {}
+}
